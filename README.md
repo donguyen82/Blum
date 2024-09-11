@@ -1,5 +1,3 @@
-![BLUM banner](#)
-
 # Tool Auto BLUM Bot NodeJS by Lượm Airdrop
 
 **Tool phát triển và chia sẻ miễn phí tại kênh Telegram [Lượm Airdrop Auto](https://t.me/autoairdropref)**
@@ -27,6 +25,14 @@
 
 > Lưu ý: Nếu nhận được thông báo đăng nhập thất bại, hãy lấy mới lại `query_id`
 
+## 🛠️ Cách lấy Query_id | Token:
+
+> Lấy trực tiếp bằng tay từ trên trình duyệt web: https://t.me/autoairdropref/44
+
+> Lấy Query_id tự động bằng Extension: https://t.me/autoairdropref/60
+
+> Cách lấy Query_id bằng script GPM: https://t.me/autoairdropref/49
+
 ## >\_ Các lệnh và chức năng tương ứng
 
 | Lệnh                 | Chức năng                               |
@@ -51,10 +57,12 @@
 ## 🔄 Lịch sử cập nhật
 
 > Phiên bản mới nhất: `v1.0.0`
+> Phiên bản mới nhất: `v1.0.1`
 
 <details>
 <summary>v1.0.0 - 📅 08/09/2024</summary>
-  
+<summary>v1.0.0 - 📅 11/09/2024</summary>
+
 - Chia sẻ tool cho cộng đồng
 - Bổ sung readme
 </details>
